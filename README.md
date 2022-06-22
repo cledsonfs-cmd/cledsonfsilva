@@ -1,6 +1,6 @@
 # Cledson Francisco Silva (currículo)
 
-<img src="http://" />
+<img src="https://github.com/cledsonfsilva/cledsonfsilva/blob/main/foto.jpeg"  width="100"/>
 
 pagina: [http://www.cledsonfs.com.br](http://www.cledsonfs.com.br "Página pessoal")  
 email: [mailto:cledsonfs@gmail.com](cledsonfs@gmail.com "pessoal")  
@@ -12,12 +12,12 @@ skype: "cledsonfs"
 • Cargo de Analista de Sistemas</br>
 
 ## Resumo
-Encontrar a melhor forma de solucionar problemas, utilizando de meios logísticos e tecnológicos.
+Profissional com 25 anos de carreira na área de TI trabalhando diretamente com Análise/Desenvolvimento de Sistemas e Levantamento/Aperfeiçoamento de Processos, período em que adquiriu características de auto ditada e versatilidade profissional. Como também as experiências em liderança, coordenação e direcionamento de equipes multidiciplinares.
 
 ## Formação
 
 ## Graduação
-• Engendraria de Produção (Cursando – Universidade Potiguar)</br>
+• Engendraria de Produção (2023 – Universidade Potiguar)</br>
 • Bacharel em Sistemas de Informação (2010 – Universidade Potiguar)</br>
 
 ## Técnico
@@ -157,7 +157,7 @@ Auxiliar de Almoxarifado (05/1995 – 05/1996 - 1 ano e 1 mes)</br>
    • Banco de Dados: SQL Server, Mysql e HSQLDB.</br>
 
 ## Projetos
-• Sistema de Pontos de Controle (03/2020 – em desenvolvimento)</br>
+• Sistema de Pontos de Controle (03/2020 – 03/2020)</br>
    Desenvolvimento de um sistema de aferição e acompanhamento de pontos de controle implantados em um ambiente fabril.</br>
 
 • Pontos de Controle (Grupo BONOR, 07/2018 - 03/2020)</br>
@@ -193,6 +193,6 @@ Auxiliar de Almoxarifado (05/1995 – 05/1996 - 1 ano e 1 mes)</br>
 • Sistema de cadastro de imagens em Java (Grupo BONOR, 07/2006 – 10/2006)</br>
    Desenvolvimento de um cadastro para as imagens desenvolvidas e aplicadas em seus produtos</br>
 
-<img src="http://" />
+<img src="https://github.com/cledsonfsilva/cledsonfsilva/blob/main/foto.jpeg"  width="40"/>
 
 
