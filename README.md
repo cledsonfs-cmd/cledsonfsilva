@@ -12,24 +12,24 @@ skype: "cledsonfs"
 • Cargo de Analista de Sistemas</br>
 
 ## Resumo
-Profissional com 25 anos de carreira na área de TI trabalhando diretamente com Análise/Desenvolvimento de Sistemas e Levantamento/Aperfeiçoamento de Processos, período em que adquiriu características de auto ditada e versatilidade profissional. Como também as experiências em liderança, coordenação e direcionamento de equipes multidiciplinares.
+Profissional com 27 anos de carreira na área de TI trabalhando diretamente com Análise/Desenvolvimento de Sistemas e Levantamento/Aperfeiçoamento de Processos, período em que adquiriu características de auto ditada e versatilidade profissional. Como também as experiências em liderança, coordenação e direcionamento de equipes multidiciplinares.
 
 ## Formação
 
-## Graduação
+### Graduação
 • Engendraria de Produção (2023 – Universidade Potiguar)</br>
 • Bacharel em Sistemas de Informação (2010 – Universidade Potiguar)</br>
 
-## Técnico
+### Técnico
 • CPT - Curso de Programador Trainee, 246 horas (09/2005 – SIC Informática)</br>
 • Suporte de Rede para Internet – Linux, 140 horas (05/2002 – Senac)</br>
 • Administração de Redes, 180 horas (01/2001 – ITECI)</br>
 • Técnico em Datilografia (03/1994 - Escola de Datilografia Nossa Senhora de Fátima)</br>
 
-## Fundamental
+### Fundamental
 • Escola Estadual Santos Dumont (1981-1994)</br>
 
-## Cursos
+### Cursos
 • Delphi 10 Avançado – 6 horas (09/2021 - Udemy)</br>
 • Delphi 10 – 5 horas (09/2021 - Udemy)</br>
 • Treinamento - TotvsDevStudio (Versão 10) - 8 horas (12/2018 – Universidade TOTVS)</br>
@@ -85,32 +85,37 @@ Inglês </br>
 • C# 2010 - Módulo I</br>
 
 ## Experiência
-Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020, até o momento) </br>
-   Tribunal de Justiça do Rio Grande do Norte(Natal - RN)</br>
-   Gerenciamento e Controle de Processos Administrativos.</br>
+### Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020, até o momento) </br>
+   [Tribunal de Justiça do Rio Grande do Norte](https://www.tjrn.jus.br/)</br>
+   Exercer a Chefia de Subseção.</br>
+   • Orientar e supervisionar a Subseção;</br>
+   • exercer atividades operacionais vinculadas ao setor; </br>
+   • auxiliar na fiscalização da manutenção e do aprimoramento da unidade; </br>
+   • executar as atividades de apoio técnico e administrativo ao superior hierárquico; </br>
+   • desenvolver outras atividades típicas da Sunseção.</br>
 
-Gerente de Processos (11/2019, 03/2020)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Gerente de Processos (11/2019, 03/2020)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Gerencia e planeja as atividades da área de Processos, compreendendo a elaboração de processos, com o propósito de promover a melhoria das condições técnicas da empresa. Coordena o fluxo de informações entre as áreas internas envolvidas no desenvolvimento dos trabalhos, analisando e tratando de detalhes, para facilitar o desenvolvimento dos processos de engenharia, ampliação e modernização.</br>
 
-Gerente de TI (06/2017 - 10/2019, 1 ano e 4 meses)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Gerente de TI (06/2017 - 10/2019, 1 ano e 4 meses)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Gerencia as atividades da área de Tecnologia da Informação, envolvendo a elaboração de projetos, implantação, racionalização e redesenho de processos, incluindo desenvolvimento e integração de sistemas, com utilização de alta tecnologia. Gerencia as equipes da área, orientando e passando as diretrizes dos projetos.</br>
 
-Analista de Sistemas (01/2011 – 05/2017, 7 anos e 5 meses)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Analista de Sistemas (01/2011 – 05/2017, 7 anos e 5 meses)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Analise de processos, levantamento de requisitos, acompanhamento de projetos, homologação de fases com o cliente, desenvolvimento e implantação de Sistemas.</br>
 
-Programador de Computador (06/2006 – 12/2010, 3 anos e 8 meses)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Programador de Computador (06/2006 – 12/2010, 3 anos e 8 meses)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Desenvolvimento de um sistema de PCP em Java totalmente orientado a objeto.</br>
    Desenvolvimento de paginas web para a Intranet/Internet.</br>
    Desenvolvimento de aplicativos de exportação para aplicativos da empresa Fortes com base em leiautes.</br>
    Geração de relatórios gerenciais utilizando a ferramenta iReport e linguagem SQL.</br>
    Desenvolvimento de aplicativo para a comunicação com dispositivos serias (Balanças, Impressoras de código de barras e matriciais) utilizando a linguagem JAVA.</br>
 
-Administrador de Redes (06/2003 – 05/2006, 3 anos)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Administrador de Redes (06/2003 – 05/2006, 3 anos)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Administração de serviços de redes, onde se destacam:</br>
       • DNS</br>
       • Proxy (squid)</br>
@@ -123,20 +128,20 @@ Administrador de Redes (06/2003 – 05/2006, 3 anos)</br>
    Criação de scripts de manutenção e geração de relatórios de tráfego.</br>
    Gerenciamento das contas de usuários.</br>
 
-Operador de Microcomputador II (07/1999 – 05/2003, 3 anos e 11 meses)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Operador de Microcomputador II (07/1999 – 05/2003, 3 anos e 11 meses)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Instalação e manutenção de microcomputadores, softwares básicos, configuração de sotwares legados e instalações físicas de pontos de redes.</br>
 
-Operador de Microcomputador (10/1998 – 06/1999, 9 meses)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Operador de Microcomputador (10/1998 – 06/1999, 9 meses)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Instalação e manutenção de microcomputadores, como também de softwares básicos.</br>
 
-Encarregado de Estoque (02/1996 – 09/1998, 2 anos e 8 meses)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Encarregado de Estoque (02/1996 – 09/1998, 2 anos e 8 meses)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Responsável pela organização e controle do estoque de produtos acabados.</br>
 
-Auxiliar de Almoxarifado (05/1995 – 05/1996 - 1 ano e 1 mes)</br>
-   Bonor – Industria de Botões do Nordeste S.A. (Parnamirim - RN)</br>
+### Auxiliar de Almoxarifado (05/1995 – 05/1996 - 1 ano e 1 mes)</br>
+   [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Fazer o recebimento, armazenamento e entrega dos materiais para todos os setores.</br>
 
 ## Qualificações
