@@ -94,7 +94,7 @@ Inglês </br>
    • executar as atividades de apoio técnico e administrativo ao superior hierárquico; </br>
    • desenvolver outras atividades típicas da Sunseção.</br>
 
-### Gerente de Processos (11/2019, 03/2020)</br>
+### Gerente de Processos (11/2019 - 03/2020, 5 meses)</br>
    [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
    Gerencia e planeja as atividades da área de Processos, compreendendo a elaboração de processos, com o propósito de promover a melhoria das condições técnicas da empresa. Coordena o fluxo de informações entre as áreas internas envolvidas no desenvolvimento dos trabalhos, analisando e tratando de detalhes, para facilitar o desenvolvimento dos processos de engenharia, ampliação e modernização.</br>
 
