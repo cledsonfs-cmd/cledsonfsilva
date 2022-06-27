@@ -87,12 +87,12 @@ Inglês </br>
 ## Experiência
 ### Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020, até o momento) </br>
    [Tribunal de Justiça do Rio Grande do Norte](https://www.tjrn.jus.br/)</br>
-   Exercer a Chefia de Subseção.</br>
+   Exerce a Chefia de Subseção.</br>
    • Orientar e supervisionar a Subseção;</br>
    • Exercer atividades operacionais vinculadas ao setor; </br>
    • Auxiliar na fiscalização da manutenção e do aprimoramento da unidade; </br>
    • Executar as atividades de apoio técnico e administrativo ao superior hierárquico; </br>
-   • Desenvolver outras atividades típicas da Sunseção.</br>
+   • Desenvolver outras atividades típicas da Subseção.</br>
 
 ### Gerente de Processos (11/2019 - 03/2020, 5 meses)</br>
    [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
