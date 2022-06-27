@@ -30,6 +30,9 @@ Profissional com 27 anos de carreira na área de TI trabalhando diretamente com 
 • Escola Estadual Santos Dumont (1981-1994)</br>
 
 ### Cursos
+• Integrações Gerencianet Pagamentos - (11/2021 - Udemy)</br>
+• Construa seu site em WordPress de forma simples e rápida - (11/2021 - Udemy)</br>
+• Programador Delphi - Sistemas com Delphi e Mysql - (10/2021 - Udemy)</br>
 • Delphi 10 Avançado – 6 horas (09/2021 - Udemy)</br>
 • Delphi 10 – 5 horas (09/2021 - Udemy)</br>
 • Treinamento - TotvsDevStudio (Versão 10) - 8 horas (12/2018 – Universidade TOTVS)</br>
@@ -67,6 +70,8 @@ Inglês </br>
 • Técnico</br>
 
 ## Eventos
+• Programa de Formação para integração e desenvolvimento da PDPJ-Br - Segunda Série (10/2021 - CNJ) 
+• Webinário sobre Sustentabilidade e Acessibilidade à luz das Resoluções CNJ n. 400 e 401, de 16 de junho de 2021. (10/2021 - CNJ)
 • IT DAY – Natal, RN (10/2011 – IT Cursos Natal)</br>
 • XIII Congresso Científico da Universidade Potiguar – Natal, RN (08/2011 – Universidade Potiguar)</br>
 • XXXI Congresso da Sociedade Brasileira de Computação – Natal, RN (06/2011 – Sociedade Brasileira de Computação)</br>
