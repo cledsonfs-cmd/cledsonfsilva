@@ -169,7 +169,7 @@ Inglês </br>
    • Banco de Dados: SQL Server, Mysql e HSQLDB.</br>
 
 ## Projetos
-• Sistema de Pontos de Controle (03/2020 – 03/2020)</br>
+• Sistema de Pontos de Controle (01/2020 – 03/2020)</br>
    Desenvolvimento de um sistema de aferição e acompanhamento de pontos de controle implantados em um ambiente fabril.</br>
 
 • Pontos de Controle (Grupo BONOR, 07/2018 - 03/2020)</br>
