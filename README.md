@@ -98,6 +98,8 @@ Inglês </br>
    • Auxiliar na fiscalização da manutenção e do aprimoramento da unidade; </br>
    • Executar as atividades de apoio técnico e administrativo ao superior hierárquico; </br>
    • Desenvolver outras atividades típicas da Subseção.</br>
+   Responsável pela publicação do Diário de Justiça do RN
+   Fiscal Técnico de Contrato
 
 ### Gerente de Processos (11/2019 - 03/2020, 5 meses)</br>
    [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
