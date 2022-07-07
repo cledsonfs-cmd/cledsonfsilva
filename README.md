@@ -99,7 +99,7 @@ Inglês </br>
    • Executar as atividades de apoio técnico e administrativo ao superior hierárquico; </br>
    • Desenvolver outras atividades típicas da Subseção.</br>
    Responsável pela publicação do Diário de Justiça do RN<br/>
-   Fiscal Técnico de Contrato<br/>
+   Fiscal Técnico Titular de Contrato (PORTARIA Nº 181-TJ, DE 09 DE JULHO DE 2021)<br/>
 
 ### Gerente de Processos (11/2019 - 03/2020, 5 meses)</br>
    [Bonor – Industria de Botões do Nordeste S.A.](https://www.bonor.com.br/)</br>
