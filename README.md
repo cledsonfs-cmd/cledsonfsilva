@@ -70,8 +70,8 @@ Inglês </br>
 • Técnico</br>
 
 ## Eventos
-• Programa de Formação para integração e desenvolvimento da PDPJ-Br - Segunda Série (10/2021 - CNJ) 
-• Webinário sobre Sustentabilidade e Acessibilidade à luz das Resoluções CNJ n. 400 e 401, de 16 de junho de 2021. (10/2021 - CNJ)
+• Programa de Formação para integração e desenvolvimento da PDPJ-Br - Segunda Série (10/2021 - CNJ)</br>
+• Webinário sobre Sustentabilidade e Acessibilidade à luz das Resoluções CNJ n. 400 e 401, de 16 de junho de 2021. (10/2021 - CNJ)</br>
 • IT DAY – Natal, RN (10/2011 – IT Cursos Natal)</br>
 • XIII Congresso Científico da Universidade Potiguar – Natal, RN (08/2011 – Universidade Potiguar)</br>
 • XXXI Congresso da Sociedade Brasileira de Computação – Natal, RN (06/2011 – Sociedade Brasileira de Computação)</br>
