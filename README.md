@@ -90,7 +90,7 @@ Inglês </br>
 • C# 2010 - Módulo I</br>
 
 ## Experiência
-### Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020, até o momento) </br>
+### Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020 - 10/2022, 11 meses) </br>
    [Tribunal de Justiça do Rio Grande do Norte](https://www.tjrn.jus.br/)</br>
    Exerce a Chefia de Subseção.</br>
    • Orientar e supervisionar a Subseção;</br>
