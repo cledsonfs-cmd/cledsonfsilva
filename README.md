@@ -30,6 +30,8 @@ Profissional com 27 anos de carreira na área de TI trabalhando diretamente com 
 • Escola Estadual Santos Dumont (1981-1994)</br>
 
 ### Cursos
+• Pontos de Função & Roteiro de Métricas do SISP - (10/2022 - Udemy)</br>
+• Arena Software - (10/2022 - Udemy)</br>
 • Integrações Gerencianet Pagamentos - (11/2021 - Udemy)</br>
 • Construa seu site em WordPress de forma simples e rápida - (11/2021 - Udemy)</br>
 • Programador Delphi - Sistemas com Delphi e Mysql - (10/2021 - Udemy)</br>
