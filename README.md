@@ -34,6 +34,7 @@ Profissional com 27 anos de carreira na área de TI trabalhando diretamente com 
 • Arena Software - (10/2022 - Udemy)</br>
 • Integrações Gerencianet Pagamentos - (11/2021 - Udemy)</br>
 • Construa seu site em WordPress de forma simples e rápida - (11/2021 - Udemy)</br>
+• Sistema de Estoque Delphi 10 para PDV - (10/2022 - Udemy)</br>
 • Programador Delphi - Sistemas com Delphi e Mysql - (10/2021 - Udemy)</br>
 • Delphi 10 Avançado – 6 horas (09/2021 - Udemy)</br>
 • Delphi 10 – 5 horas (09/2021 - Udemy)</br>
