@@ -95,8 +95,8 @@ Inglês </br>
 ## Experiência
 ### Analista de Sistemas Senior (10/2022 - Atual ) </br>
    [LAMPP-IT Solutions](https://www.lampp-it.com.br/)</br>
-   Lider Técnido.<br/>
-   Desenvolverdor<br/>
+   Lider Técnido<br/>
+   Desenvolvedor<br/>
 
 ### Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020 - 10/2022, 11 meses) </br>
    [Tribunal de Justiça do Rio Grande do Norte](https://www.tjrn.jus.br/)</br>
