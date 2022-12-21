@@ -7,12 +7,10 @@ email: [mailto:cledsonfs@gmail.com](cledsonfs@gmail.com "pessoal")
 skype: "cledsonfs"
 
 ## Objetivos
-• Cargo de Gerente de Processos</br>
-• Cargo de Gerente de TI</br>
 • Cargo de Analista de Sistemas</br>
 
 ## Resumo
-Profissional com 27 anos de carreira na área de TI trabalhando diretamente com Análise/Desenvolvimento de Sistemas e Levantamento/Aperfeiçoamento de Processos, período em que adquiriu características de auto ditada e versatilidade profissional. Como também as experiências em liderança, coordenação e direcionamento de equipes multidiciplinares.
+Profissional com 27 anos de carreira na área de TI trabalhando diretamente com Análise/Desenvolvimento de Sistemas e Levantamento/Aperfeiçoamento de Processos, período em que adquiriu característicasauto ditada e versatilidade profissional. Como também as experiências em liderança, coordenação e direcionamento de equipes multidiciplinares.
 
 ## Formação
 
@@ -24,10 +22,6 @@ Profissional com 27 anos de carreira na área de TI trabalhando diretamente com 
 • CPT - Curso de Programador Trainee, 246 horas (09/2005 – SIC Informática)</br>
 • Suporte de Rede para Internet – Linux, 140 horas (05/2002 – Senac)</br>
 • Administração de Redes, 180 horas (01/2001 – ITECI)</br>
-• Técnico em Datilografia (03/1994 - Escola de Datilografia Nossa Senhora de Fátima)</br>
-
-### Fundamental
-• Escola Estadual Santos Dumont (1981-1994)</br>
 
 ### Cursos
 • Pontos de Função & Roteiro de Métricas do SISP - (10/2022 - Udemy)</br>
@@ -66,26 +60,8 @@ Profissional com 27 anos de carreira na área de TI trabalhando diretamente com 
 • Curso de Soluções Básicas para PC, 40 horas (07/1998 – SENAC RN)</br>
 • Computação Básica em Windows 3.11/Excel/Word 6/Corel Draw, 60 horas (07/1996 – Mega Soft Informática)</br>
 
-## Idiomas 
-Português </br>
-• Nativo</br>
 Inglês </br>
 • Técnico</br>
-
-## Eventos
-• Programa de Formação para integração e desenvolvimento da PDPJ-Br - Segunda Série (10/2021 - CNJ)</br>
-• Webinário sobre Sustentabilidade e Acessibilidade à luz das Resoluções CNJ n. 400 e 401, de 16 de junho de 2021. (10/2021 - CNJ)</br>
-• IT DAY – Natal, RN (10/2011 – IT Cursos Natal)</br>
-• XIII Congresso Científico da Universidade Potiguar – Natal, RN (08/2011 – Universidade Potiguar)</br>
-• XXXI Congresso da Sociedade Brasileira de Computação – Natal, RN (06/2011 – Sociedade Brasileira de Computação)</br>
-• DEV DAY – Natal, RN (10/2010 – IT Cursos Natal)</br>
-• SYSOP DAY – Natal, RN (10/2010 – IT Cursos Natal)</br>
-• TechNet Community: 1° InfraRN Virtualization Meeting – Natal, RN (07/2010 – SEBRAE)</br>
-• Road Show: Copa Microsoft de Talentos – Sessão para Desenvolvedores – Natal, RN (04/2010 – Monza Plaza)</br>
-• Palestra Manutenção de Notebooks (03/2010 – IT Cursos Natal)</br>
-• Palestra como Simplificar sua TI com a DEL e Miranda (08/2009 – Miranda Computação)</br>
-• IX Congresso Científico da Universidade Potiguar (10/2007 – Universidade Potiguar)</br>
-• Meeting de Informática (08/2000 – SENAC RN)</br>
 
 ## Certificados
 • ASP.NET 2012 - Módulo I</br>
@@ -93,9 +69,9 @@ Inglês </br>
 • C# 2010 - Módulo I</br>
 
 ## Experiência
-### Analista de Sistemas Senior (10/2022 - Atual ) </br>
-   [LAMPP-IT Solutions](https://www.lampp-it.com.br/)</br>
-   Lider Técnido<br/>
+### Analista de Sistemas Senior (10/2022 - 12/2022 ) </br>
+   [LAMPP-IT Solutions](https://www.lampp-it.com.br/)</br>      
+   Lider Técnido<br/>   
    Desenvolvedor<br/>
 
 ### Chefe de Subseção de Apoio aos Sistemas Administrativos (11/2020 - 10/2022, 11 meses) </br>
@@ -162,21 +138,19 @@ Inglês </br>
 ## Qualificações
    • Conhecimentos em Orientação a Objetos e UML.</br>
    • Metodologia em Desenvolvimento de Sistemas: ICONIX E XP.</br>
-   • Linguagens de Programação: ASP.NET, C#, Java (Desktop e Web), HTML, PHP e SQL.</br>
-   • Ferramentas RAD: Visual Studio, Netbeans e Eclipse.</br>
-   • Banco de Dados: PostgreSQL.</br>
+   • Linguagens de Programação: ASP.NET, C#, Java(Spring boot, JPA/Hibernate), HTML, PHP(LARAVEL), Python(Django), Typescript(Angular) e SQL.</br>
+   • Ferramentas RAD: Visual Studio,IntelliJ, Netbeans e Eclipse.</br>
+   • Banco de Dados: PostgreSQL, Mysql, MariaDB.</br>
    • Ferramentas de Micro-Informática: MS-Project, Vision, Merlin, iReport, Word, Excel e PowerPoint.</br>
    • Conhecimento em instalações de servidores LINUX.</br>
    • Conhecimento em instalações lógias e estruturais de redes.</br>
    • Conhecimento em manutenção de micro-computadores (plataformas Windows, Linux e Mac OSx).</br>
 
-## Noções e Práticas eventuais
-   • Metodologia em Desenvolvimento de Sistemas: RUP.</br>
-   • Linguagens de Programação: Java ME, J2EE (JSP, Struts 2.0, JavaServer Faces, Servlets), JavaScript, Perl, Python, Pascal, Clipper, C/C++/QT (Nível Médio) e Objeto Pascal (Delphi).</br>
-   • Ferramentas RAD: Delphi e QT Design.</br>
-   • Banco de Dados: SQL Server, Mysql e HSQLDB.</br>
 
 ## Projetos
+• Khonshu (11/2020 – 10/2022)</br>
+   Sistema de Relatório de Tempo Gasto e Produtividade Integrado com Redmine's REST API</br>
+   
 • Sistema de Pontos de Controle (01/2020 – 03/2020)</br>
    Desenvolvimento de um sistema de aferição e acompanhamento de pontos de controle implantados em um ambiente fabril.</br>
 
